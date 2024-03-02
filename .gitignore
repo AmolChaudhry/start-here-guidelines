@@ -3,7 +3,7 @@
 .vscode
 .idea
 .iml
-.history
+.historyer
 
 # dependencies
 node_modules
